@@ -32,7 +32,7 @@ build/
 ### VS Code ###
 .vscode/
 
-.mvn/*
+.mvn/wrapper
 mvnw
 mvnw.cmd
 .gitattributes
