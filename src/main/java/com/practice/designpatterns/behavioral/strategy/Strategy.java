@@ -1,0 +1,6 @@
+package com.practice.designpatterns.behavioral.strategy;
+
+public interface Strategy {
+
+    double execute(double a, double b);
+}
